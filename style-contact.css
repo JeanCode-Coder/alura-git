@@ -134,16 +134,16 @@ thead{
     background-color: #555;
     color: white;
     font-weight: bold;
-    /* padding: 10px; */
+    
 }
 th{
     border: solid 1px white;
     border-radius: 10px;
-   padding: 10px;
+   padding: 9px;
     
 }
 td{
-    padding: 10px;
+    padding: 9px;
     background-color: orange;
     border: solid 1px white;
     border-radius: 10px;
